@@ -33,7 +33,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,java,react,nextjs,nodejs,express,tailwind,vite,astro,prisma,postgres,supabase,mysql,mongodb,aws,vercel,azure,gcp,git,githubactions,postman,figma&perline=8&theme=dark">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,java,react,nextjs,nodejs,express,tailwind,vite,astro,prisma,postgres,supabase,mysql,mongodb,aws,vercel,azure,gcp,git,githubactions,postman,figma&perline=8&theme=light" alt="Stack">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Cjava%2Creact%2Cnextjs%2Cnodejs%2Cexpress%2Ctailwind%2Cvite%2Castro%2Cprisma%2Cpostgres%2Csupabase%2Cmysql%2Cmongodb%2Caws%2Cvercel%2Cazure%2Cgcp%2Cgit%2Cgithubactions%2Cpostman%2Cfigma&perline=8&theme=dark">
+    <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Cjava%2Creact%2Cnextjs%2Cnodejs%2Cexpress%2Ctailwind%2Cvite%2Castro%2Cprisma%2Cpostgres%2Csupabase%2Cmysql%2Cmongodb%2Caws%2Cvercel%2Cazure%2Cgcp%2Cgit%2Cgithubactions%2Cpostman%2Cfigma&perline=8&theme=light" alt="Stack">
   </picture>
 </p>
