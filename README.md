@@ -12,7 +12,7 @@
 
 ### Building
 
-| Project | About | Stack |
+| Project<img src="spacer.png" width="240" height="1" align="right"> | About<img src="spacer.png" width="520" height="1" align="right"> | Stack<img src="spacer.png" width="420" height="1" align="right"> |
 | :--- | :--- | :--- |
 | **[Leadlund](https://beta.leadlund.com/)** | Nordic B2B lead finding and outreach | Next.js · Express · Supabase |
 | **[Kiikari](https://getkiikari.com/)** | Automated investing on insider trades | Expo · Hono · AWS |
@@ -23,7 +23,7 @@
 
 ### Shipped
 
-| Project | About | Stack |
+| Project<img src="spacer.png" width="240" height="1" align="right"> | About<img src="spacer.png" width="520" height="1" align="right"> | Stack<img src="spacer.png" width="420" height="1" align="right"> |
 | :--- | :--- | :--- |
 | **[WCAG Scan](https://www.wcag-scan.com/)** | Accessibility audits with AI-written fixes | AWS CDK · Fargate · Bedrock |
 
