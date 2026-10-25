@@ -20,12 +20,14 @@
 | **[Urapolku](https://urapolku.fi/)** | AI career guidance for Finnish students | Next.js · PostgreSQL · AWS |
 | **[Lightfoot](https://github.com/miska-voutilainen/lightfoot)** | Cuts AI coding token burn by ~30% | Python |
 | **[Laajenna](https://laajenna.fi/)** | Digital solutions for Finnish businesses | React · Netlify |
+| **[Hackjunction](https://www.hackjunction.com/)** | Junction 2026 hackathon build, release 15.11 | TBA |
 
 ### Shipped
 
 | Project<img src="spacer.png" width="240" height="1" align="right"> | About<img src="spacer.png" width="520" height="1" align="right"> | Stack<img src="spacer.png" width="420" height="1" align="right"> |
 | :--- | :--- | :--- |
 | **[WCAG Scan](https://www.wcag-scan.com/)** | Accessibility audits with AI-written fixes | AWS CDK · Fargate · Bedrock |
+| **[XR Smart Room](https://claude.ai/artifact/Q3XCy35p5ewCaEMtKyDdF6)** | VR digital twin of a KNX smart-building lab | Unity · Python · Blender |
 
 ---
 
