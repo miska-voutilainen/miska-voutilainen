@@ -18,7 +18,7 @@
 | **[Kiikari](https://getkiikari.com/)** | Automated investing on insider trades | Expo · Hono · AWS |
 | └&nbsp;Bank&nbsp;API | Trade data and alerts for banks | Hono · OpenAPI · AWS |
 | **[Urapolku](https://urapolku.fi/)** | AI career guidance for Finnish students | Next.js · PostgreSQL · AWS |
-| **[Lightfoot](https://github.com/miska-voutilainen/lightfoot)** | Makes long AI coding sessions cheaper | Python |
+| **[Lightfoot](https://github.com/miska-voutilainen/lightfoot)** | Cuts AI coding token burn by ~30% | Python |
 | **[Laajenna](https://laajenna.fi/)** | Digital solutions for Finnish businesses | React · Netlify |
 
 ### Shipped
